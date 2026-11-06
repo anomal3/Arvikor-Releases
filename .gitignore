@@ -1,0 +1,11 @@
+# В репозитории релизов — только README и снимки экрана; сборки идут ассетами релизов, не файлами.
+*.exe
+*.zip
+*.tar.gz
+*.sha256
+*.msi
+out/
+release-notes-*.md
+Thumbs.db
+desktop.ini
+.DS_Store
